@@ -1,5 +1,6 @@
 [![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjordond%2Fplexlanding.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjordond%2Fplexlanding?ref=badge_shield)
 
 [![CircleCI](https://circleci.com/gh/jordond/plexlanding/tree/develop.svg?style=svg)](https://circleci.com/gh/jordond/plexlanding/tree/develop)
 [![Build Status](https://travis-ci.org/jordond/plexlanding.svg?branch=develop)](https://travis-ci.org/jordond/plexlanding)
@@ -33,3 +34,5 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ```
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjordond%2Fplexlanding.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjordond%2Fplexlanding?ref=badge_large)
